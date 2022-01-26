@@ -1,0 +1,17 @@
+{
+    "name": "ramlito/tests",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramlito",
+            "email": "thbltmrl@gmail.com"
+        }
+    ]
+}
